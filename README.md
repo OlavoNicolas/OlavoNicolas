@@ -4,11 +4,9 @@
 >— Sócrates
 <br>
 
-## Olá 👋
+## Olá 👋 Eu sou Olavo Nicolas
 
-### Eu sou Olavo Nicolas
-
-Técnico em TI | Suporte & Infraestrutura | Especializando-se em InfoSec e Redes | Foco em CompTIA Security+ & CS50
+<b>Técnico em TI | Suporte & Infraestrutura | Especializando-se em InfoSec e Redes | Foco em CompTIA Security+ & CS50<b/>
  
 <br>
 
@@ -38,17 +36,8 @@ técnicos.</li>
 
 ##  Contato
 <a href="mailto:olavo.nicolas5@gmail.com" target="_blank">
-  <img 
-    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
-    height="35" 
-    alt="gmail" 
-  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail"/>
 </a>
 <a href="https://www.linkedin.com/in/olavo-nicolas/" target="_blank">
-  <img 
-    src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" 
-    height="35" 
-    alt="linkedin" 
-/>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin"/>
 </a>
-
