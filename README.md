@@ -9,8 +9,9 @@
 <b>Técnico em TI | Suporte & Infraestrutura | Especializando-se em InfoSec e Redes | Foco em CompTIA Security+ & CS50<b/>
  
 <br>
-
+<p align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTF5NGxhM2E2ajh3cmZ2YmIzY2Y2ejFwMDAzcmd1ajBrZjUwbW5kZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" width="400">
+</p>
 
 ## 💭 Sobre
 
