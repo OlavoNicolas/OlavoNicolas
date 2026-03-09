@@ -6,7 +6,7 @@
 
 ## Olá 👋 Eu sou Olavo Nicolas
 
-<b>Técnico em TI | Suporte & Infraestrutura | Especializando-se em InfoSec e Redes | Foco em CompTIA Security+ & CS50<b/>
+<b>Estudante de Ciências da Computação | Técnico em TI | Redes | Suporte & Infraestrutura | Especializando-se em Cybersecurity | Foco em CompTIA Security+<b/>
  
 <br>
 <p align="center">
@@ -16,7 +16,9 @@
 ## 💭 Sobre
 
 <p>
-Técnico em Informática recém-formado e entusiasta por tecnologia e resolução de problemas. Estou construindo minha base técnica para me especializar em Segurança da Informação (InfoSec). Para isso, mantenho uma rotina de estudos ativa na área, incluindo cursos de referência global como o CS50 Harvard via Fundação Estudar, preparação para a certificação CompTIA Security+, além de estudos constante sobre a língua inglesa. </p>
+Atualmente curso Ciência da Computação e sou Técnico em Informática recém-formado, com grande interesse por tecnologia e resolução de problemas. Busco minha primeira oportunidade na área de TI, por meio de estágios ou posições iniciais em Suporte Técnico e Infraestrutura, onde eu possa aplicar e expandir meus conhecimentos.
+
+Estou construindo minha base técnica com foco em Segurança da Informação (InfoSec). Para isso, mantenho uma rotina ativa de estudos, incluindo cursos de referência internacional como os oferecidos pela Cybersecurity and Infrastructure Security Agency (CISA) do U.S. Department of Homeland Security, CS50 Harvard (via Fundação Estudar), preparação para a certificação CompTIA Security+, além de estudos contínuos da língua inglesa. </p>
 
 ## 📖 Resumo das qualificações:
 
