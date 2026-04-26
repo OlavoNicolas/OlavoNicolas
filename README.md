@@ -6,7 +6,7 @@
 
 ## Olá 👋 Eu sou Olavo Nicolas
 
-<b>Estudante de Ciências da Computação | Técnico em TI | Redes | Suporte & Infraestrutura | Especializando-se em Cybersecurity | Foco em CompTIA Security+<b/>
+<b>Técnico em TI | Suporte & Infraestrutura | Redes | Estudante de Ciência da Computação | Security+ Candidate<b/>
  
 <br>
 <p align="center">
@@ -16,9 +16,13 @@
 ## 💭 Sobre
 
 <p>
-Atualmente curso Ciência da Computação e sou Técnico em Informática recém-formado, com grande interesse por tecnologia e resolução de problemas. Busco minha primeira oportunidade na área de TI, por meio de estágios ou posições iniciais em Suporte Técnico e Infraestrutura, onde eu possa aplicar e expandir meus conhecimentos.
+Estudante de Ciência da Computação e Técnico em Informática, com forte interesse em tecnologia e resolução de problemas complexos.
 
-Estou construindo minha base técnica com foco em Segurança da Informação (InfoSec). Para isso, mantenho uma rotina ativa de estudos, incluindo cursos de referência internacional como os oferecidos pela Cybersecurity and Infrastructure Security Agency (CISA) do U.S. Department of Homeland Security, CS50 Harvard (via Fundação Estudar), preparação para a certificação CompTIA Security+, além de estudos contínuos da língua inglesa. </p>
+Possuo experiência no desenvolvimento de projetos utilizando Java, Python e C#, além da criação e gerenciamento de laboratórios próprios (Home Lab). Utilizo ferramentas como o VirtualBox para simulação de redes e ambientes Linux e Windows, com foco em infraestrutura e segurança defensiva.
+
+Atualmente, estou direcionando minha formação para a área de Segurança da Informação (InfoSec), mantendo uma rotina consistente de estudos práticos e teóricos. Desenvolvo laboratórios pessoais para aprofundar conhecimentos em redes, sistemas e segurança, complementando com cursos de instituições reconhecidas internacionalmente, como a Cybersecurity and Infrastructure Security Agency (CISA), Cisco, e preparação para a certificação CompTIA Security+.
+
+Também invisto continuamente no aprimoramento da língua inglesa e na compreensão de ambientes industriais, ampliando minha capacidade de atuação em contextos técnicos diversos. </p>
 
 ## 📖 Resumo das qualificações:
 
