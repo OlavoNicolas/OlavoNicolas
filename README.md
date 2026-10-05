@@ -6,7 +6,7 @@
 
 ## Olá 👋 Eu sou Olavo Nicolas
 
-<b>Técnico em TI | Suporte & Infraestrutura | Redes | Estudante de Ciência da Computação | Security+ Candidate<b/>
+<b>Infraestrutura & Redes | Cybersecurity | Linux & Windows Server | Python & Java | Ciência da Computação<b/>
  
 <br>
 <p align="center">
