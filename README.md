@@ -18,28 +18,9 @@
 <p>
 Estudante de Ciência da Computação e Técnico em Informática, com forte interesse em tecnologia e resolução de problemas complexos.
 
-Possuo experiência no desenvolvimento de projetos utilizando Java, Python e C#, além da criação e gerenciamento de laboratórios próprios (Home Lab). Utilizo ferramentas como o VirtualBox para simulação de redes e ambientes Linux e Windows, com foco em infraestrutura e segurança defensiva.
+Possuo experiência no desenvolvimento de projetos utilizando Python, Java, além da criação e gerenciamento de laboratórios próprios (Home Lab). Utilizo ferramentas como o VirtualBox para simulação de redes e ambientes Linux e Windows, com foco em infraestrutura e segurança defensiva.
 
-Atualmente, estou direcionando minha formação para a área de Segurança da Informação (InfoSec), mantendo uma rotina consistente de estudos práticos e teóricos. Desenvolvo laboratórios pessoais para aprofundar conhecimentos em redes, sistemas e segurança, complementando com cursos de instituições reconhecidas internacionalmente, como a Cybersecurity and Infrastructure Security Agency (CISA), Cisco, e preparação para a certificação CompTIA Security+.
-
-Também invisto continuamente no aprimoramento da língua inglesa e na compreensão de ambientes industriais, ampliando minha capacidade de atuação em contextos técnicos diversos. </p>
-
-## 📖 Resumo das qualificações:
-
-<ul type="square">
-  <li>Formação técnica integrada com foco em 
-teoria e prática sobre hardware, sistemas, 
-lógica e redes de computadores. </li>
-  <li>Trago como diferencial uma mentalidade e 
-orientação de um estudante ativo em 
-Segurança da Informação (InfoSec) </li>
-  <li>Perfil proativo, com foco em resolução de 
-problemas e aprendizado contínuo de novas 
-tecnologias.</li>
-  <li>Inglês em nível pré-intermediário, capacitado 
-para leitura de documentações e manuais 
-técnicos.</li>
-</ul>
+Atualmente, estou direcionando minha formação para a área de Cybersecurity, mantendo uma rotina consistente de estudos práticos e teóricos. Desenvolvo laboratórios pessoais para aprofundar conhecimentos em redes, sistemas e segurança, complementando com cursos de instituições reconhecidas internacionalmente, como a Cybersecurity and Infrastructure Security Agency (CISA), Cisco, e preparação para a certificação CompTIA Security+.
 
 ##  Contato
 <a href="mailto:olavo.nicolas5@gmail.com" target="_blank">
